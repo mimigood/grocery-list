@@ -1,0 +1,25 @@
+h1{
+ font-size: 50px;
+ text-align: center;
+ color: pink;
+ background-color: black;
+}
+
+input{
+ width: 100px;
+ height: 50px;
+ text-align: center;
+}
+
+button{
+ width: 50px;
+ height: 25px;
+ text-align: center;
+}
+
+.strikeThrough{
+ text-decoration: line-through;
+}
+.info{
+ text-align: center;
+}
